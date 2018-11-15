@@ -6,5 +6,5 @@ Some more details here...
 
 Even more details here.
 
-That's enough.
+Who's your master?
 And now we're on a new branch. Nice, ah?
